@@ -1,0 +1,1 @@
+echo "Deploy Completed %date% : %time%"

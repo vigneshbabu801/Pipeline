@@ -1,0 +1,1 @@
+echo "Building Completed %date% : %time%"

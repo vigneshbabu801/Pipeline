@@ -1,0 +1,1 @@
+echo "JUnit Test Completed %date% : %time%"
